@@ -1,7 +1,6 @@
 # Relay Timer Control (RTC) for ESP32
 
-A robust, non-blocking Serial command interface for controlling relays with human-readable time durations. This project provides a practical application for microcontrollers found in the **Maker & Education** and **IoT & Low-Power** sectors using **ESP32**.
-
+A robust, non-blocking Serial command interface for controlling relays with human-readable time durations.
 ---
 
 ## Features
