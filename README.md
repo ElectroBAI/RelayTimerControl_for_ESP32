@@ -1,4 +1,4 @@
-# Relay Timer Control (RTC) for Arduino/ESP32
+# Relay Timer Control (RTC) for ESP32
 
 A robust, non-blocking Serial command interface for controlling relays with human-readable time durations. This project provides a practical application for microcontrollers found in the **Maker & Education** and **IoT & Low-Power** sectors, such as the **Arduino Uno R4** or **ESP32**.
 
@@ -51,6 +51,3 @@ This project demonstrates key embedded programming concepts:
 As seen in the "Journey Through Every Type of Single-Board Computer" infographic, this project sits within the broader world of hardware development. While this code runs on microcontrollers, these devices often act as the "limbs" for more powerful "brains" like the **Raspberry Pi 5** or **NVIDIA Jetson**.
 
 ---
-
-## License
-This project is open-source and intended for educational use in the maker community.
