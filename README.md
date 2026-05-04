@@ -14,8 +14,7 @@ A robust, non-blocking Serial command interface for controlling relays with huma
 ---
 
 ## Hardware Requirements
-While the code can run on various boards, it is optimized for:
-*   **Microcontroller**: Arduino Uno R4, ESP32, or Mega.
+*   **Microcontroller**: ESP32
 *   **Relays**: 2-Channel Relay Module (Active-Low).
 *   **Pins Used**:
     *   **GPIO 26**: Bulb / Light
