@@ -47,7 +47,3 @@ This project demonstrates key embedded programming concepts:
 
 ---
 
-## Visualizing the Ecosystem
-As seen in the "Journey Through Every Type of Single-Board Computer" infographic, this project sits within the broader world of hardware development. While this code runs on microcontrollers, these devices often act as the "limbs" for more powerful "brains" like the **Raspberry Pi 5** or **NVIDIA Jetson**.
-
----
